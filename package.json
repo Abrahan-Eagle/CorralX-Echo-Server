@@ -1,7 +1,7 @@
 {
-  "name": "zonix-echo-server",
+  "name": "corralx-echo-server",
   "version": "1.0.0",
-  "description": "Laravel Echo Server for Zonix Eats - Real-time notifications",
+  "description": "Laravel Echo Server for CorralX - Real-time chat and notifications",
   "main": "index.js",
   "scripts": {
     "start": "laravel-echo-server start",
@@ -9,8 +9,8 @@
     "init": "laravel-echo-server init",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["websockets", "laravel-echo", "real-time", "notifications"],
-  "author": "Zonix Eats Team",
+  "keywords": ["websockets", "laravel-echo", "real-time", "chat", "notifications"],
+  "author": "CorralX Team",
   "license": "ISC",
   "dependencies": {
     "laravel-echo-server": "^1.6.3"

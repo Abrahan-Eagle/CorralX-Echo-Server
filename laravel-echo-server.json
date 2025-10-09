@@ -1,10 +1,10 @@
 {
-    "authHost": "http://192.168.0.101:8000",
+    "authHost": "http://192.168.27.12:8000",
     "authEndpoint": "/broadcasting/auth",
     "clients": [
         {
-            "appId": "zonix-eats-app",
-            "key": "zonix-eats-key"
+            "appId": "corralx-app",
+            "key": "corralx-secret-key-2025"
         }
     ],
     "database": "sqlite",
